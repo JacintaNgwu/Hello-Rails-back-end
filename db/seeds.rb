@@ -1,0 +1,5 @@
+Greeting.create(greeting: "Hello, World!")
+Greeting.create(greeting: "Hola, Mundo!")
+Greeting.create(greeting: "Bonjour, Monde!")
+Greeting.create(greeting: "Hallo, Welt!")
+Greeting.create(greeting: "Hello, Jaccy!")
