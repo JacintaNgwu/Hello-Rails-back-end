@@ -63,6 +63,10 @@ In order to run this project you need:
 - Install yarn
 - Understanding of Ruby
 
+### Front-End
+
+Here is the [Front-End](https://github.com/JacintaNgwu/Hello-React-front-end.git) of the app.
+
 ### Setup
 
 - Clone this repository to your desired folder:
